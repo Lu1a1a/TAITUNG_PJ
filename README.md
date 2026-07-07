@@ -2,6 +2,10 @@
 
 A derived demo built from `city-travel-site-template`. It proves the Hualien design can be reused for a second city by replacing only content, images, metadata, and source links.
 
+## Live Demo
+
+https://taitung-guide.netlify.app
+
 ## Demo Scope
 
 This version uses Taitung travel content around:

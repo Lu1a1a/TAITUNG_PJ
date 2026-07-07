@@ -16,3 +16,5 @@ vite-*.log
 .codex-vite-*
 .edge-shot-*/
 screenshots/
+# Local Netlify folder
+.netlify
